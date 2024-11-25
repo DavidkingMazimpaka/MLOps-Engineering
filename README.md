@@ -24,7 +24,7 @@ This project involves building a machine learning model to classify whether a pa
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/mlops-summative-diabetes.git
+    git clone https://github.com/your-username/MLOps-Engineering.git
     cd mlops-summative-diabetes
     ```
 
