@@ -7,3 +7,4 @@ streamlit
 tensorflow
 scikit-learn
 imbalanced-learn
+plotly
