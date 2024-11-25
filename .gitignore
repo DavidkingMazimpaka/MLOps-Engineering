@@ -1,1 +1,4 @@
 venv
+.cpython
+__pycache__
+notebook
